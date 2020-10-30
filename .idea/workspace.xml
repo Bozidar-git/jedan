@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a94ebf0-7c43-410e-8816-989617c418f1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/proba.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Klasa.php" beforeDir="false" afterPath="$PROJECT_DIR$/Klasa.php" afterDir="false" />
     </list>
@@ -171,7 +165,7 @@
       <updated>1571187573911</updated>
       <workItem from="1590097402891" duration="444000" />
       <workItem from="1604087330712" duration="4254000" />
-      <workItem from="1604092233328" duration="782000" />
+      <workItem from="1604092233328" duration="1266000" />
     </task>
     <servers />
   </component>

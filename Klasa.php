@@ -6,6 +6,6 @@ class Klasa{
     private $c;
 
     public function doSomething(){
-        return $this->a;
+        return $this->a + $this->c;
     }
 }
